@@ -1,0 +1,6 @@
+1. Postgres resouce manager (on linux we can use cgroup) like oracle resouce manager
+2. Postgres AWR package (ASH , V$SQL_MONIOR , SQL_ID , AWR Report , ...)
+3. Use OCI (Oracle Call Interface) to build a high performance Oracle to REST like (ORDS)
+4. Call C program from Oracle with procedure
+5. Oracle Goldengate USEREXIT high performace notifier for transaction
+
