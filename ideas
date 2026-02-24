@@ -4,3 +4,4 @@
 4. Call C program from Oracle with procedure
 5. Oracle Goldengate USEREXIT high performace notifier for transaction
 
+6. Use eBPF to implement some of above ideas
